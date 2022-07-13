@@ -7,7 +7,7 @@ Sente-se, pegue um café, e aproveite a leitura deste arquivo que servirá como 
 
 Sou Yan! Um **desenvolvedor de jogos e programador Full-Stack**. 
 
-Curso **Ciência da Computação** na UFLA há quase 4 anos, prestes a finalizar o curso.
+Curso **Ciência da Computação** na **Universidade Federal de Lavras (UFLA)** há quase 4 anos, prestes a finalizar o curso.
 
 *E tem sido uma baita de uma jornada.*
 
