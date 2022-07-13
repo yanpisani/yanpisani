@@ -1,4 +1,4 @@
-Olá! Bienvenue! :wave:
+[PT] Olá! Bienvenue! :wave:
 ================
 Sente-se, pegue um café, e aproveite a leitura! :coffee:
 ----------------
