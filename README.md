@@ -83,7 +83,7 @@ I'm a *Comp Sci* Undergraduate at the **Lavras's Federal University (LFU)** sinc
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ... among others! 
 
-:hammer_and_wrench: Not only programming languages, but I am also experienced in:
+:hammer_and_wrench: Not only programming languages, but I also have some experience in:
 
 ![blend](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![fig](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 
