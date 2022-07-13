@@ -1,6 +1,6 @@
 Olá! Bienvenue! :wave:
 ================
-Sente-se, pegue um café, e aproveite a leitura! :coffee:
+Sente-se, pegue um café, e aproveite a leitura deste arquivo que servirá como um pequeno currículo! :coffee:
 ----------------
 
 > "The future depends on the past, even if we don't get to see it." - Riebeck, Outer Wilds
@@ -24,13 +24,13 @@ Curso **Ciência da Computação** na UFLA há quase 4 anos, prestes a finalizar
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ... entre outras! 
 
-Não só linguagens de programação, mas também tenho experiência com:
+:hammer_and_wrench: Não só linguagens de programação, mas também tenho experiência com:
 
 ![blend](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![fig](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 
 ![office](	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-E tenho interesse em aprender: 
+:books: E tenho interesse em aprender: 
 
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![rub](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
