@@ -1,4 +1,4 @@
-Olá! Bienvenue! 
+Olá! Bienvenue! :wave:
 ================
 Sente-se, pegue um café, e aproveite a leitura deste arquivo que servirá como um pequeno currículo! :coffee:
 ----------------
@@ -11,7 +11,7 @@ Curso **Ciência da Computação** na UFLA há quase 4 anos, prestes a finalizar
 
 *E tem sido uma baita de uma jornada.*
 
-Tenho conhecimento em algumas linguagens de programação, como:
+:computer: Tenho conhecimento em algumas linguagens de programação, como: 
 
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
