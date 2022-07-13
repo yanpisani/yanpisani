@@ -64,9 +64,9 @@ Get some coffee, have a seat, and enjoy the reading! :coffee:
 
 > "The future depends on the past, even if we don't get to see it." - Riebeck, Outer Wilds
 
-My name is Yan! A **game developer and Full-Stack programmer**.
+My name is Yan! A brazilian **game developer and Full-Stack programmer**.
 
-I'm a *Comp Sci* Undergraduate at the **Lavras's Federal University (LFU)** since 2019, half a year away from graduating. :mortar_board:
+I'm a *Comp Sci* Undergraduate at the **Lavras's Federal University (LFU)**, in Brazil, since 2019, half a year away from graduating. :mortar_board:
 
 *And it's been one hell of a journey.*
 
