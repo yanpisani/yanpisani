@@ -1,6 +1,6 @@
 Olá! Bienvenue! :wave:
 ================
-Sente-se, pegue um café, e aproveite a leitura deste arquivo que servirá como um pequeno currículo! :coffee:
+Sente-se, pegue um café, e aproveite a leitura! :coffee:
 ----------------
 
 > "The future depends on the past, even if we don't get to see it." - Riebeck, Outer Wilds
@@ -37,11 +37,11 @@ Curso **Ciência da Computação** na **Universidade Federal de Lavras (UFLA)** 
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ... entre outras! 
 
-Trabalho principalmente com desenvolvimento de jogos (independente), fazendo uso da engine gratuita *Unity*, mas também tenho interesse em trabalhar com pesquisas, especialmente as relacionadas à Inteligência Artificial.
+Trabalho principalmente com desenvolvimento de jogos (independente), fazendo uso da engine gratuita *Unity*, mas também tenho interesse em trabalhar com pesquisas, especialmente as relacionadas à Inteligência Artificial. :robot:
 
-**Não** desisto fácil, e adoro aprender, principalmente coisas novas.
+**Não** desisto fácil, e adoro aprender, principalmente coisas novas. :mag:
 
-Alguns projetos pessoais estão em repositórios privados no GitHub, e pretendo abri-los ao público quando finalizados! 
+Alguns projetos pessoais estão em repositórios privados no GitHub, e pretendo abri-los ao público quando finalizados! :white_check_mark:
 
 > "Despite everything, it's still you." - Toby Fox, Undertale
 
