@@ -49,7 +49,6 @@ Links interessantes e recomendações!
 =====================
 1. [Obsidian (Editor de texto *Markdown*)](https://obsidian.md/)
 2. [Duckstation (Emulador do Playstation 1 em código aberto)](https://github.com/stenzek/duckstation)
-3. [Command & Conquer (Jogo antigo da Electronic Arts, agora com o código aberto ao público)](https://github.com/electronicarts/CnC_Remastered_Collection)
 
 ---------------------
 Obrigado por ler até aqui, e tenha uma boa tarde! Ou noite! Ou dia! 
