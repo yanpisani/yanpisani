@@ -89,7 +89,7 @@ I'm a *Comp Sci* Undergraduate at the **Lavras's Federal University (LFU)** sinc
 
 ![office](	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-:books: I also have interested in learning:
+:books: I also have an interest in learning:
 
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![rub](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
